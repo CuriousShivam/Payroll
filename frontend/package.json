@@ -1,8 +1,20 @@
 {
   "name": "payroll",
-  "private": true,
   "version": "0.0.0",
+  "private": true,
+  "description": "MERN Project",
+  "homepage": "https://github.com/CuriousShivam/Payroll#readme",
+  "bugs": {
+    "url": "https://github.com/CuriousShivam/Payroll/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CuriousShivam/Payroll.git"
+  },
+  "license": "ISC",
+  "author": "Shivam",
   "type": "module",
+  "main": "eslint.config.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
